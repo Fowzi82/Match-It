@@ -1,2 +1,3 @@
 # Match-It
-A fun python game that I created in the first semester.
+A fun Python game that I created in the first semester.
+It works on the same logic as Candy Crush.
