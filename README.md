@@ -6,7 +6,7 @@ Welcome to MATCH IT, a puzzle game where you need to match objects by swapping t
 The game starts with a 4x4 grid, and as you progress through levels, the grid size increases, making the game more challenging.
 
 ## How to Play
-1. Run the game by executing the Python script (`match_it_game.py`) located in the game folder.
+1. Run the game by executing the Python script (`MATCH_IT.py`) located in the game folder.
    - Do not run the script directly; run it from the folder to ensure proper loading of background images.
 
 2. Click on the "PLAY!" button to start the game.
